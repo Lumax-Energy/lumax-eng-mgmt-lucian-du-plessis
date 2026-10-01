@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-09-30T13:19:58.194Z",
+  "updatedAt": "2026-10-01T09:51:40.938Z",
   "settings": {
     "taskStatuses": [
       {
@@ -89,7 +89,8 @@
       "SAT tracker",
       "Rooftop ballast",
       "Rooftop flush mount",
-      "Custom"
+      "Custom",
+      "Econo-Max (Single & Double)"
     ],
     "structureTypes": [
       "Carport H-Max",
@@ -452,6 +453,102 @@
       "archived": false,
       "createdAt": "2026-09-09T11:55:02.261Z",
       "updatedAt": "2026-09-09T12:15:53.823Z"
+    },
+    {
+      "id": "proj-pw0vx4e9u3un",
+      "clientName": "Forest Energy",
+      "projectName": "AdvTech",
+      "projectCode": "FES-CP-006",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "1 Waterstone Dr, Benmore Gardens, Sandton, 2196",
+      "contactPerson": "David - +27 79 774 8611",
+      "projectType": "Econo-Max (Single & Double)",
+      "structureTypes": [
+        "Carport Econo-Max"
+      ],
+      "drawingNumbers": [
+        "LM-CP-EC-SPLICE",
+        "LM-CP-ST-013",
+        "LM-CP-ST-014",
+        "LM-CP-ST-010",
+        "LM-CP-ST-009",
+        "LM-CP-ST-011",
+        "LM-CP-ST-012",
+        "LM-CP-ST-005",
+        "LM-CP-ST-006",
+        "LM-CP-ST-003",
+        "LM-CP-ST-004",
+        "LM-CP-ST-001",
+        "LM-CP-ST-002",
+        "LM-CP-ST-007",
+        "LM-CP-ST-008",
+        "LM-CP-ST-015",
+        "LM-CP-ST-016"
+      ],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-am1rku5wu3un",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-ca5mbxhku3un",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-nwexqnhau3un",
+          "name": "Design"
+        },
+        {
+          "id": "phase-5xv5ec6yu3un",
+          "name": "Check"
+        },
+        {
+          "id": "phase-qb7ckmghu3un",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-m5vjsmlou3un",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-h0ytx5b4u3un",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-7cp7crcgu3un",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-iu1k0ettu3un",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-10-01T09:51:34.655Z",
+      "updatedAt": "2026-10-01T09:51:34.655Z"
     }
   ],
   "tasks": [
