@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-01T09:51:40.938Z",
+  "updatedAt": "2026-10-01T11:40:50.560Z",
   "settings": {
     "taskStatuses": [
       {
@@ -959,6 +959,30 @@
       "discipline": "",
       "createdAt": "2026-09-25T05:25:34.369Z",
       "updatedAt": "2026-09-28T19:45:18.969Z"
+    },
+    {
+      "id": "task-05vwaz46318t",
+      "projectId": null,
+      "title": "Alternate Energy - 26 Cypress Drive, Glen Anvil (IBR)",
+      "description": "Tilted, Base rail, TBR-VF",
+      "type": "report_writing",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-02",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-01",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Rooftop Structural",
+      "createdAt": "2026-10-01T09:58:31.181Z",
+      "updatedAt": "2026-10-01T11:40:46.755Z"
     }
   ]
 }
