@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-02T17:35:29.543Z",
+  "updatedAt": "2026-10-05T07:17:48.700Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1254,13 +1254,13 @@
       "title": "Heroldt's Group - Durban, Ballito (Ballast)",
       "description": "",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": "2026-10-05",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-05",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1270,7 +1270,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-02T13:43:13.895Z",
-      "updatedAt": "2026-10-02T13:43:13.895Z"
+      "updatedAt": "2026-10-05T06:27:18.116Z"
     }
   ]
 }
