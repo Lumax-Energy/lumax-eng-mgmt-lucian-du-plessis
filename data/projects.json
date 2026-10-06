@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-06T08:31:13.353Z",
+  "updatedAt": "2026-10-06T10:15:18.614Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1319,6 +1319,54 @@
       "discipline": "Structural",
       "createdAt": "2026-10-06T08:31:04.092Z",
       "updatedAt": "2026-10-06T08:31:04.092Z"
+    },
+    {
+      "id": "task-9q7sdhg9g00g",
+      "projectId": null,
+      "title": "Terra-firma - Ph2 Sing-off Form4 (Inside GM's)",
+      "description": "",
+      "type": "eng_task",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-07",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-06T08:38:58.576Z",
+      "updatedAt": "2026-10-06T08:38:58.576Z"
+    },
+    {
+      "id": "task-qw6omhbfvtmi",
+      "projectId": null,
+      "title": "Belingh - 4 Cancer Street",
+      "description": "45 DEG with tilted panels",
+      "type": "report_writing",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-06",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-06",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-06T10:15:15.642Z",
+      "updatedAt": "2026-10-06T10:15:15.642Z"
     }
   ]
 }
