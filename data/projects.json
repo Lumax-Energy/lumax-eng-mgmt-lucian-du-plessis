@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-06T14:18:36.851Z",
+  "updatedAt": "2026-10-07T13:19:47.580Z",
   "settings": {
     "taskStatuses": [
       {
@@ -549,6 +549,164 @@
       "archived": false,
       "createdAt": "2026-10-01T09:51:34.655Z",
       "updatedAt": "2026-10-01T12:33:33.850Z"
+    },
+    {
+      "id": "proj-yqqjqokykkfm",
+      "clientName": "Solar Africa",
+      "projectName": "Ceramic Industries",
+      "projectCode": "SOL-SAT-005",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "2 Old Potchefstroom Rd, Vereeniging, 1939",
+      "contactPerson": "",
+      "projectType": "SAT tracker",
+      "structureTypes": [
+        "SAT tracker"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-e5y1bcv8kkfm",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-yh74eealkkfm",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-mmhqikabkkfm",
+          "name": "Design"
+        },
+        {
+          "id": "phase-5cjnd4x7kkfm",
+          "name": "Check"
+        },
+        {
+          "id": "phase-alflwvrskkfm",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-pzkzdsmkkkfm",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-3vv9zz3vkkfm",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-c473h0a8kkfm",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-h2bx9f5hkkfm",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "pending",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-10-07T13:10:08.242Z",
+      "updatedAt": "2026-10-07T13:19:44.912Z"
+    },
+    {
+      "id": "proj-e1cy0jv7tnvo",
+      "clientName": "SolarOnSA",
+      "projectName": "Trafalgar Place Solar Carport",
+      "projectCode": "SOL-CP-001",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "FNB - P6JR26FQ",
+      "invoiceNumber": "",
+      "address": "21 Esher Rd, Castleview, Johannesburg, 1401",
+      "contactPerson": "Werner - 0810437165",
+      "projectType": "Carport",
+      "structureTypes": [
+        "Carport Econo-Max"
+      ],
+      "drawingNumbers": [
+        "SOL-CP-ST-001"
+      ],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "foundationDesign": {
+        "designed": true,
+        "checked": true
+      },
+      "phases": [
+        {
+          "id": "phase-89slp80jtnvo",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-95rmrns7tnvo",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-zpnrvc6btnvo",
+          "name": "Design"
+        },
+        {
+          "id": "phase-1ph9ejpktnvo",
+          "name": "Check"
+        },
+        {
+          "id": "phase-z5frm2uutnvo",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-8n0wob8gtnvo",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-tlnhf6y4tnvo",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-sctbi1rltnvo",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-tlw3f1outnvo",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "approved",
+      "engineeringSignOff": true,
+      "engineeringSignOffAt": "2026-10-07",
+      "engineeringSignOffBy": "Jaco Lötter",
+      "conformanceStatus": "approved",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-10-07T13:17:12.612Z",
+      "updatedAt": "2026-10-07T13:17:12.612Z"
     }
   ],
   "tasks": [
@@ -1391,6 +1549,54 @@
       "discipline": "Structural",
       "createdAt": "2026-10-06T14:00:41.913Z",
       "updatedAt": "2026-10-06T14:00:41.913Z"
+    },
+    {
+      "id": "task-qy1o9icjm3aw",
+      "projectId": "proj-yqqjqokykkfm",
+      "title": "Soil and Excavation checks",
+      "description": "Trench, Soil and ramming issues",
+      "type": "site_visit",
+      "statusId": "status-in-check",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-07",
+      "phaseId": "phase-3vv9zz3vkkfm",
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-07T13:11:19.352Z",
+      "updatedAt": "2026-10-07T13:11:19.352Z"
+    },
+    {
+      "id": "task-s8lpae6jwxe8",
+      "projectId": "proj-yqqjqokykkfm",
+      "title": "Final Punchlist",
+      "description": "Complete structure Punchlist",
+      "type": "report_writing",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-07",
+      "phaseId": "phase-c473h0a8kkfm",
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-07T13:19:44.912Z",
+      "updatedAt": "2026-10-07T13:19:44.912Z"
     }
   ]
 }
