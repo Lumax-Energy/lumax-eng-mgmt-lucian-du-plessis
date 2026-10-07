@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-07T13:45:01.746Z",
+  "updatedAt": "2026-10-07T15:42:02.030Z",
   "settings": {
     "taskStatuses": [
       {
@@ -117,7 +117,7 @@
       "contact": "+27 10 140 4933"
     },
     "scfYear": 2026,
-    "scfSeq": 14,
+    "scfSeq": 15,
     "voidedLetters": []
   },
   "projects": [
@@ -698,15 +698,65 @@
       "engineeringSignOffAt": "2026-10-07",
       "engineeringSignOffBy": "Jaco Lötter",
       "conformanceStatus": "approved",
-      "conformanceRef": "",
-      "conformanceIssuedAt": null,
-      "conformanceCert": null,
-      "sclUndoSnapshot": null,
-      "sclHistory": [],
-      "activePhaseId": null,
+      "conformanceRef": "LMX-SCL-2026-014",
+      "conformanceIssuedAt": "2026-10-07T15:42:02.028Z",
+      "conformanceCert": {
+        "ref": "LMX-SCL-2026-014",
+        "issuedAt": "2026-10-07T15:42:02.028Z",
+        "dateLabel": "07/10/2026",
+        "clientName": "SolarOnSA",
+        "projectName": "Trafalgar Place Solar Carport",
+        "projectCode": "SOL-CP-001",
+        "projectType": "Carport",
+        "structureTypes": [
+          "Carport Econo-Max"
+        ],
+        "address": "21 Esher Rd, Castleview, Johannesburg, 1401",
+        "contactPerson": "Werner - 0810437165",
+        "invoiceNumber": "INV - 1002/70003307",
+        "salesOrderNumber": "",
+        "poNumber": "",
+        "popReference": "FNB - P6JR26FQ",
+        "drawingNumbers": [
+          "SOL-CP-ST-001"
+        ],
+        "structuralDesign": {
+          "designed": true,
+          "checked": true
+        },
+        "foundationDesign": {
+          "designed": true,
+          "checked": true
+        },
+        "engineer": {
+          "name": "Demo Pr. Eng. (SAMPLE)",
+          "ecsaNo": "ECSA-DEMO-00000",
+          "business": "Lumax ENERGY (PTY) Ltd",
+          "address": "Corporate Park North, Midrand 1685",
+          "contact": "+27 10 140 4933"
+        }
+      },
+      "sclUndoSnapshot": {
+        "conformanceStatus": "approved",
+        "conformanceRef": "",
+        "conformanceIssuedAt": null,
+        "conformanceCert": null,
+        "activePhaseId": null
+      },
+      "sclHistory": [
+        {
+          "ref": "LMX-SCL-2026-014",
+          "issuedAt": "2026-10-07T15:42:02.028Z",
+          "action": "issued",
+          "at": "2026-10-07T15:42:02.028Z",
+          "seq": 14,
+          "year": 2026
+        }
+      ],
+      "activePhaseId": "phase-tlw3f1outnvo",
       "archived": false,
       "createdAt": "2026-10-07T13:17:12.612Z",
-      "updatedAt": "2026-10-07T13:44:57.110Z"
+      "updatedAt": "2026-10-07T15:42:02.028Z"
     }
   ],
   "tasks": [
@@ -1482,7 +1532,7 @@
       "id": "task-9q7sdhg9g00g",
       "projectId": null,
       "title": "Terra-firma - Ph2 Sing-off Form4 (Inside GM's)",
-      "description": "",
+      "description": "Site Visit.",
       "type": "eng_task",
       "statusId": "status-doing",
       "assignee": "Lucian",
@@ -1500,7 +1550,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-06T08:38:58.576Z",
-      "updatedAt": "2026-10-06T08:38:58.576Z"
+      "updatedAt": "2026-10-07T14:15:48.880Z"
     },
     {
       "id": "task-qw6omhbfvtmi",
@@ -1599,30 +1649,6 @@
       "updatedAt": "2026-10-07T13:21:06.794Z"
     },
     {
-      "id": "task-cujme9fwz8gg",
-      "projectId": "proj-e1cy0jv7tnvo",
-      "title": "Final Punchlist",
-      "description": "Structure Punchlist",
-      "type": "eng_task",
-      "statusId": "status-doing",
-      "assignee": "Lucian",
-      "priority": "medium",
-      "dueDate": "2026-10-07",
-      "phaseId": "phase-sctbi1rltnvo",
-      "blockedReason": "",
-      "doneDate": null,
-      "refNumber": "",
-      "raisedBy": "",
-      "responseDue": null,
-      "checker": "",
-      "calcOrDrawingRef": "",
-      "drawingNumber": "",
-      "rev": "",
-      "discipline": "Structural",
-      "createdAt": "2026-10-07T13:21:32.560Z",
-      "updatedAt": "2026-10-07T13:21:32.560Z"
-    },
-    {
       "id": "task-u2bqazokqeas",
       "projectId": null,
       "title": "Heroldt's Group - M&L, Erfin (SANS Letter)",
@@ -1645,6 +1671,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-07T13:42:39.844Z",
       "updatedAt": "2026-10-07T13:42:39.844Z"
+    },
+    {
+      "id": "task-vtee2hfdzlzv",
+      "projectId": "proj-e1cy0jv7tnvo",
+      "title": "Trafalgar place - Final punchlist",
+      "description": "",
+      "type": "eng_task",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-07",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-07",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-07T15:41:48.187Z",
+      "updatedAt": "2026-10-07T15:41:48.186Z"
     }
   ]
 }
