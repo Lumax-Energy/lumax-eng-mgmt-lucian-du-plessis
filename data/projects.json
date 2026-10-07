@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-07T13:19:47.580Z",
+  "updatedAt": "2026-10-07T13:21:37.010Z",
   "settings": {
     "taskStatuses": [
       {
@@ -706,7 +706,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-10-07T13:17:12.612Z",
-      "updatedAt": "2026-10-07T13:17:12.612Z"
+      "updatedAt": "2026-10-07T13:21:32.560Z"
     }
   ],
   "tasks": [
@@ -1575,16 +1575,40 @@
       "updatedAt": "2026-10-07T13:11:19.352Z"
     },
     {
-      "id": "task-s8lpae6jwxe8",
-      "projectId": "proj-yqqjqokykkfm",
+      "id": "task-l8wanpytyokq",
+      "projectId": "proj-e1cy0jv7tnvo",
+      "title": "Site Visit - 07/10/2026",
+      "description": "Final Site Visit",
+      "type": "site_visit",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-07",
+      "phaseId": "phase-tlw3f1outnvo",
+      "blockedReason": "",
+      "doneDate": "2026-10-07",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-07T13:21:06.794Z",
+      "updatedAt": "2026-10-07T13:21:06.794Z"
+    },
+    {
+      "id": "task-cujme9fwz8gg",
+      "projectId": "proj-e1cy0jv7tnvo",
       "title": "Final Punchlist",
-      "description": "Complete structure Punchlist",
-      "type": "report_writing",
+      "description": "Structure Punchlist",
+      "type": "eng_task",
       "statusId": "status-doing",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": "2026-10-07",
-      "phaseId": "phase-c473h0a8kkfm",
+      "phaseId": "phase-sctbi1rltnvo",
       "blockedReason": "",
       "doneDate": null,
       "refNumber": "",
@@ -1595,8 +1619,8 @@
       "drawingNumber": "",
       "rev": "",
       "discipline": "Structural",
-      "createdAt": "2026-10-07T13:19:44.912Z",
-      "updatedAt": "2026-10-07T13:19:44.912Z"
+      "createdAt": "2026-10-07T13:21:32.560Z",
+      "updatedAt": "2026-10-07T13:21:32.560Z"
     }
   ]
 }
