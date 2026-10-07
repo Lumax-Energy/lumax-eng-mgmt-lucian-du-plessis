@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-07T13:22:11.414Z",
+  "updatedAt": "2026-10-07T13:42:53.772Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1621,6 +1621,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-07T13:21:32.560Z",
       "updatedAt": "2026-10-07T13:21:32.560Z"
+    },
+    {
+      "id": "task-u2bqazokqeas",
+      "projectId": null,
+      "title": "Heroldt's Group - M&L, Erfin (SANS Letter)",
+      "description": "2V10 - 2V12 GM 25DEG, \nDrawing no: GMK23-S-01-001-P0A",
+      "type": "report_writing",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-07",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-07",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-07T13:42:39.844Z",
+      "updatedAt": "2026-10-07T13:42:39.844Z"
     }
   ]
 }
