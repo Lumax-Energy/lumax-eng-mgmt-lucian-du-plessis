@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-07T15:54:54.910Z",
+  "updatedAt": "2026-10-08T05:33:54.553Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1054,13 +1054,13 @@
       "title": "ACES Africa - Marthinusen",
       "description": "Ballast Report\nRedo all reports due to ballast being too much.",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": "2026-09-22",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": "2026-09-22",
+      "doneDate": "2026-10-08",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1070,7 +1070,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-09-21T11:18:38.578Z",
-      "updatedAt": "2026-09-29T07:31:41.087Z"
+      "updatedAt": "2026-10-08T05:33:50.721Z"
     },
     {
       "id": "task-p75wypr7gq4k",
