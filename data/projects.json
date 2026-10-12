@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-12T10:31:54.734Z",
+  "updatedAt": "2026-10-12T10:34:19.746Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1767,6 +1767,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-12T10:29:38.199Z",
       "updatedAt": "2026-10-12T10:29:38.199Z"
+    },
+    {
+      "id": "task-1jzk6a2m7coo",
+      "projectId": null,
+      "title": "Solar Africa - Ceramic Industries",
+      "description": "Site Visit - 07-10-2026",
+      "type": "site_visit",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-07",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-12",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-12T10:34:14.904Z",
+      "updatedAt": "2026-10-12T10:34:14.904Z"
     }
   ]
 }
