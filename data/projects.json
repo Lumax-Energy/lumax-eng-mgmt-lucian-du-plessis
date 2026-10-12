@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-12T15:15:21.121Z",
+  "updatedAt": "2026-10-12T15:55:14.524Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1791,6 +1791,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-12T10:34:14.904Z",
       "updatedAt": "2026-10-12T10:34:14.904Z"
+    },
+    {
+      "id": "task-d3q067fao3op",
+      "projectId": null,
+      "title": "small inner radii for CFLC",
+      "description": "Ask Alvin about the inner radii",
+      "type": "eng_task",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": "2026-10-14",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "",
+      "createdAt": "2026-10-12T15:55:12.169Z",
+      "updatedAt": "2026-10-12T15:55:12.169Z"
     }
   ]
 }
