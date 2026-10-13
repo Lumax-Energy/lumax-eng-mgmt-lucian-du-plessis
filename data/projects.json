@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-12T15:55:14.524Z",
+  "updatedAt": "2026-10-13T14:44:51.078Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1815,6 +1815,30 @@
       "discipline": "",
       "createdAt": "2026-10-12T15:55:12.169Z",
       "updatedAt": "2026-10-12T15:55:12.169Z"
+    },
+    {
+      "id": "task-wa52s0brlfgz",
+      "projectId": null,
+      "title": "Sinani Energy - Manaka Bricks",
+      "description": "WLR for Manaka Bricks",
+      "type": "report_writing",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-14",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-13T14:44:48.659Z",
+      "updatedAt": "2026-10-13T14:44:48.659Z"
     }
   ]
 }
