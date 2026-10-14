@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-13T14:51:18.005Z",
+  "updatedAt": "2026-10-14T08:55:40.776Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1820,7 +1820,7 @@
       "id": "task-wa52s0brlfgz",
       "projectId": null,
       "title": "Sinani Energy - Manaka Bricks",
-      "description": "WLR for Manaka Bricks",
+      "description": "WLR for Manaka Bricks\nHanger Bolts + R46",
       "type": "report_writing",
       "statusId": "status-doing",
       "assignee": "Lucian",
@@ -1838,7 +1838,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-13T14:44:48.659Z",
-      "updatedAt": "2026-10-13T14:44:48.659Z"
+      "updatedAt": "2026-10-13T14:59:47.247Z"
     }
   ]
 }
