@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-14T08:55:40.776Z",
+  "updatedAt": "2026-10-14T08:55:55.358Z",
   "settings": {
     "taskStatuses": [
       {
@@ -117,7 +117,7 @@
       "contact": "+27 10 140 4933"
     },
     "scfYear": 2026,
-    "scfSeq": 15,
+    "scfSeq": 16,
     "voidedLetters": []
   },
   "projects": [
@@ -539,16 +539,82 @@
       "engineeringSignOff": false,
       "engineeringSignOffAt": null,
       "engineeringSignOffBy": "",
-      "conformanceStatus": "pending",
-      "conformanceRef": "",
-      "conformanceIssuedAt": null,
-      "conformanceCert": null,
-      "sclUndoSnapshot": null,
-      "sclHistory": [],
-      "activePhaseId": null,
+      "conformanceStatus": "approved",
+      "conformanceRef": "LMX-SCL-2026-015",
+      "conformanceIssuedAt": "2026-10-14T08:55:55.350Z",
+      "conformanceCert": {
+        "ref": "LMX-SCL-2026-015",
+        "issuedAt": "2026-10-14T08:55:55.350Z",
+        "dateLabel": "14/10/2026",
+        "clientName": "Forest Energy",
+        "projectName": "AdvTech",
+        "projectCode": "FES-CP-006",
+        "projectType": "Econo-Max (Single & Double)",
+        "structureTypes": [
+          "Carport Econo-Max"
+        ],
+        "address": "1 Waterstone Dr, Benmore Gardens, Sandton, 2196",
+        "contactPerson": "David - +27 79 774 8611",
+        "invoiceNumber": "1002/70003694",
+        "salesOrderNumber": "",
+        "poNumber": "PO-0564",
+        "popReference": "",
+        "drawingNumbers": [
+          "LM-CP-EC-SPLICE",
+          "LM-CP-ST-013",
+          "LM-CP-ST-014",
+          "LM-CP-ST-010",
+          "LM-CP-ST-009",
+          "LM-CP-ST-011",
+          "LM-CP-ST-012",
+          "LM-CP-ST-005",
+          "LM-CP-ST-006",
+          "LM-CP-ST-003",
+          "LM-CP-ST-004",
+          "LM-CP-ST-001",
+          "LM-CP-ST-002",
+          "LM-CP-ST-007",
+          "LM-CP-ST-008",
+          "LM-CP-ST-015",
+          "LM-CP-ST-016"
+        ],
+        "structuralDesign": {
+          "designed": true,
+          "checked": true
+        },
+        "foundationDesign": {
+          "designed": true,
+          "checked": true
+        },
+        "engineer": {
+          "name": "Demo Pr. Eng. (SAMPLE)",
+          "ecsaNo": "ECSA-DEMO-00000",
+          "business": "Lumax ENERGY (PTY) Ltd",
+          "address": "Corporate Park North, Midrand 1685",
+          "contact": "+27 10 140 4933"
+        }
+      },
+      "sclUndoSnapshot": {
+        "conformanceStatus": "pending",
+        "conformanceRef": "",
+        "conformanceIssuedAt": null,
+        "conformanceCert": null,
+        "activePhaseId": null
+      },
+      "sclHistory": [
+        {
+          "ref": "LMX-SCL-2026-015",
+          "issuedAt": "2026-10-14T08:55:55.350Z",
+          "action": "issued",
+          "at": "2026-10-14T08:55:55.350Z",
+          "seq": 15,
+          "year": 2026
+        }
+      ],
+      "activePhaseId": "phase-iu1k0ettu3un",
       "archived": false,
       "createdAt": "2026-10-01T09:51:34.655Z",
-      "updatedAt": "2026-10-12T10:31:52.347Z"
+      "updatedAt": "2026-10-14T08:55:55.356Z"
     },
     {
       "id": "proj-yqqjqokykkfm",
@@ -1366,13 +1432,13 @@
       "title": "AdvTech - Site Visit - Final Site Visit",
       "description": "Final Site Visit to be conducted",
       "type": "site_visit",
-      "statusId": "status-todo",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": null,
       "phaseId": "phase-h0ytx5b4u3un",
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-14",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1382,7 +1448,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-01T12:31:10.296Z",
-      "updatedAt": "2026-10-12T10:30:19.670Z"
+      "updatedAt": "2026-10-14T08:55:48.050Z"
     },
     {
       "id": "task-ul9qvhhrl4t0",
