@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-15T14:53:52.491Z",
+  "updatedAt": "2026-10-15T14:54:53.049Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1882,13 +1882,13 @@
       "title": "Sinani Energy - Manaka Bricks",
       "description": "WLR for Manaka Bricks\nHanger Bolts + R46",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": "2026-10-14",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-15",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1898,7 +1898,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-13T14:44:48.659Z",
-      "updatedAt": "2026-10-13T14:59:47.247Z"
+      "updatedAt": "2026-10-15T14:54:17.524Z"
     },
     {
       "id": "task-3oqqbnaex7fr",
@@ -1923,6 +1923,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-14T15:09:38.151Z",
       "updatedAt": "2026-10-14T15:09:38.151Z"
+    },
+    {
+      "id": "task-tmbo96vxu0rq",
+      "projectId": null,
+      "title": "New Planet Energy - MSCA Brits",
+      "description": "Ballast",
+      "type": "eng_task",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-15T14:54:49.958Z",
+      "updatedAt": "2026-10-15T14:54:49.958Z"
     }
   ]
 }
