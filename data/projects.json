@@ -1,42 +1,42 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-15T10:50:49.125Z",
+  "updatedAt": "2026-10-15T14:53:52.491Z",
   "settings": {
     "taskStatuses": [
       {
         "id": "status-backlog",
         "name": "Backlog",
-        "color": "#ff9500",
+        "color": "#6b7c93",
         "category": "todo"
       },
       {
         "id": "status-todo",
         "name": "To do",
-        "color": "#ff0000",
+        "color": "#5c6b7e",
         "category": "todo"
       },
       {
         "id": "status-doing",
         "name": "Doing",
-        "color": "#1eff00",
+        "color": "#2f80ed",
         "category": "doing"
       },
       {
         "id": "status-in-check",
         "name": "In check",
-        "color": "#fbff00",
+        "color": "#9b59b6",
         "category": "doing"
       },
       {
         "id": "status-blocked",
         "name": "Blocked",
-        "color": "#00eeff",
+        "color": "#c0392b",
         "category": null
       },
       {
         "id": "status-done",
         "name": "Done",
-        "color": "#0400ff",
+        "color": "#1a7f4b",
         "category": "done"
       }
     ],
@@ -76,10 +76,6 @@
       {
         "id": "other",
         "name": "Other"
-      },
-      {
-        "id": "report_writing",
-        "name": "Report writing"
       }
     ],
     "myAssignee": "Lucian du Plessis",
@@ -89,8 +85,7 @@
       "SAT tracker",
       "Rooftop ballast",
       "Rooftop flush mount",
-      "Custom",
-      "Econo-Max (Single & Double)"
+      "Custom"
     ],
     "structureTypes": [
       "Carport H-Max",
@@ -106,8 +101,7 @@
       "Custom",
       "H-Max Double Access",
       "H-Max East-West",
-      "H-Max Standard",
-      "H-Max Reverse"
+      "H-Max Standard"
     ],
     "engineerDefaults": {
       "name": "Demo Pr. Eng. (SAMPLE)",
@@ -1239,7 +1233,7 @@
       "projectId": null,
       "title": "Alternate Energy - 26 Cypress Drive, Glen Anvil (IBR)",
       "description": "Tilted, Base rail, TBR-VF",
-      "type": "report_writing",
+      "type": "eng_task",
       "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
@@ -1575,7 +1569,7 @@
       "projectId": null,
       "title": "Energy Partners Power - AECI Modderfontein Design Report",
       "description": "",
-      "type": "report_writing",
+      "type": "eng_task",
       "statusId": "status-doing",
       "assignee": "Lucian",
       "priority": "high",
@@ -1623,7 +1617,7 @@
       "projectId": null,
       "title": "Belingh - 4 Cancer Street",
       "description": "45 DEG with tilted panels",
-      "type": "report_writing",
+      "type": "eng_task",
       "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
@@ -1719,7 +1713,7 @@
       "projectId": null,
       "title": "Heroldt's Group - M&L, Erfin (SANS Letter)",
       "description": "2V10 - 2V12 GM 25DEG, \nDrawing no: GMK23-S-01-001-P0A",
-      "type": "report_writing",
+      "type": "eng_task",
       "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
@@ -1887,7 +1881,7 @@
       "projectId": null,
       "title": "Sinani Energy - Manaka Bricks",
       "description": "WLR for Manaka Bricks\nHanger Bolts + R46",
-      "type": "report_writing",
+      "type": "eng_task",
       "statusId": "status-doing",
       "assignee": "Lucian",
       "priority": "medium",
@@ -1911,7 +1905,7 @@
       "projectId": null,
       "title": "Terra-firma - National Foods Lochinvar (Zimbabwe)",
       "description": "Rooftop Shortrail report",
-      "type": "report_writing",
+      "type": "eng_task",
       "statusId": "status-doing",
       "assignee": "Lucian",
       "priority": "high",
