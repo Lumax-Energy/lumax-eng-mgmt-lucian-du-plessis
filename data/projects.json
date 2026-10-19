@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-16T10:17:20.563Z",
+  "updatedAt": "2026-10-19T18:51:11.039Z",
   "settings": {
     "taskStatuses": [
       {
@@ -994,13 +994,13 @@
       "title": "(Rooftop) Alternate Energy - 26 Cypress Dr. Glen Anil",
       "description": "",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": "2026-09-28",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-16",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1010,7 +1010,7 @@
       "rev": "",
       "discipline": "Rooftop WLR",
       "createdAt": "2026-09-18T08:09:19.736Z",
-      "updatedAt": "2026-10-16T09:40:18.466Z"
+      "updatedAt": "2026-10-16T10:27:12.445Z"
     },
     {
       "id": "task-dv452hhokv0b",
@@ -1642,13 +1642,13 @@
       "title": "(Rooftop) New Planet - SAP CPT (Roofhooks)",
       "description": "Flushmount - Roofhooks",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": "2026-10-12",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-16",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1658,7 +1658,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-06T14:00:41.913Z",
-      "updatedAt": "2026-10-16T09:40:51.929Z"
+      "updatedAt": "2026-10-16T11:17:32.262Z"
     },
     {
       "id": "task-qy1o9icjm3aw",
@@ -1930,13 +1930,13 @@
       "title": "(Rooftop) New Planet Energy - MSCA Brits",
       "description": "Ballast",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-16",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1946,7 +1946,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-15T14:54:49.958Z",
-      "updatedAt": "2026-10-16T09:41:05.697Z"
+      "updatedAt": "2026-10-16T14:02:36.448Z"
     }
   ]
 }
