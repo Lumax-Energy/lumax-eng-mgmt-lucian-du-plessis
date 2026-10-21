@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-21T10:18:45.231Z",
+  "updatedAt": "2026-10-21T14:03:27.728Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1673,16 +1673,16 @@
     {
       "id": "task-9q7sdhg9g00g",
       "projectId": null,
-      "title": "Terra-firma - Ph2 Sing-off Form4 (Inside GM's) Site Visit.",
+      "title": "Terra-firma - Ph2 Sign-off Form4 (Inside GM's) Site Visit.",
       "description": "Site Visit.",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": "2026-10-07",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-21",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1692,7 +1692,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-06T08:38:58.576Z",
-      "updatedAt": "2026-10-07T15:54:53.062Z"
+      "updatedAt": "2026-10-21T14:02:26.136Z"
     },
     {
       "id": "task-qw6omhbfvtmi",
@@ -1889,16 +1889,16 @@
     {
       "id": "task-wdvqcy1z1f6f",
       "projectId": null,
-      "title": "Terra-firma - NCP Ph2C (GM's) - Site Visit + Form 4",
+      "title": "Terra-firma - NCP Ph2C (GM's) - Form 4",
       "description": "NCP Induction",
       "type": "coordination",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": "2026-10-13",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-21",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1908,7 +1908,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-12T10:29:38.199Z",
-      "updatedAt": "2026-10-12T10:29:38.199Z"
+      "updatedAt": "2026-10-21T14:03:15.392Z"
     },
     {
       "id": "task-1jzk6a2m7coo",
@@ -2108,10 +2108,34 @@
       "title": "M&L Solar Systems - Carport Reactions in Bloem (Hestony)",
       "description": "",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": "2026-10-21",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-21",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-21T09:06:56.556Z",
+      "updatedAt": "2026-10-21T14:01:57.079Z"
+    },
+    {
+      "id": "task-q1db9ebt1rsa",
+      "projectId": null,
+      "title": "Solar MD - Aluminium GM (Report + Foundation design)",
+      "description": "Structure in Sudan",
+      "type": "eng_task",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-22",
       "phaseId": null,
       "blockedReason": "",
       "doneDate": null,
@@ -2123,8 +2147,8 @@
       "drawingNumber": "",
       "rev": "",
       "discipline": "Structural",
-      "createdAt": "2026-10-21T09:06:56.556Z",
-      "updatedAt": "2026-10-21T09:07:51.656Z"
+      "createdAt": "2026-10-21T13:46:54.058Z",
+      "updatedAt": "2026-10-21T13:47:05.218Z"
     }
   ]
 }
