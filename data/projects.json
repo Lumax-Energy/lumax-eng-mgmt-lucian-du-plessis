@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-21T08:22:13.831Z",
+  "updatedAt": "2026-10-21T08:23:25.597Z",
   "settings": {
     "taskStatuses": [
       {
@@ -835,7 +835,8 @@
       ],
       "drawingNumbers": [
         "DOR-GM-ST-001",
-        "DOR-GM-ST-004"
+        "DOR-GM-ST-004",
+        "DOR-GM-ST-003"
       ],
       "customFields": {},
       "structuralDesign": {
@@ -897,7 +898,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-10-21T08:14:55.490Z",
-      "updatedAt": "2026-10-21T08:14:55.490Z"
+      "updatedAt": "2026-10-21T08:23:20.768Z"
     }
   ],
   "tasks": [
