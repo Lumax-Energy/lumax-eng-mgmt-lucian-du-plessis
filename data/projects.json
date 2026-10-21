@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-21T08:24:11.862Z",
+  "updatedAt": "2026-10-21T09:53:41.765Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2101,6 +2101,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-21T08:24:05.227Z",
       "updatedAt": "2026-10-21T08:24:05.227Z"
+    },
+    {
+      "id": "task-npvx11dg1qr0",
+      "projectId": null,
+      "title": "M&L Solar Systems - Carport Reactions in Bloem (Hestony)",
+      "description": "",
+      "type": "eng_task",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-21",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-21T09:06:56.556Z",
+      "updatedAt": "2026-10-21T09:07:51.656Z"
     }
   ]
 }
