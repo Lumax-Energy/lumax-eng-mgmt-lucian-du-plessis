@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-21T14:03:27.728Z",
+  "updatedAt": "2026-10-21T14:30:36.127Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2149,6 +2149,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-21T13:46:54.058Z",
       "updatedAt": "2026-10-21T13:47:05.218Z"
+    },
+    {
+      "id": "task-pgdfe4jklx5x",
+      "projectId": null,
+      "title": "Scosha Development - Mooikloof 2V Economax",
+      "description": "",
+      "type": "design_check",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "Lucian du Plessis",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "",
+      "createdAt": "2026-10-21T14:30:33.765Z",
+      "updatedAt": "2026-10-21T14:30:33.765Z"
     }
   ]
 }
