@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-23T09:37:05.309Z",
+  "updatedAt": "2026-10-23T12:52:25.564Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1844,13 +1844,13 @@
       "title": "Cross Boundary Energy - 2V East West Design (Frans-W)",
       "description": "Complete for Frans-W",
       "type": "design_check",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": "2026-10-15",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-23",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1860,7 +1860,7 @@
       "rev": "",
       "discipline": "",
       "createdAt": "2026-10-12T10:23:41.997Z",
-      "updatedAt": "2026-10-12T10:23:41.997Z"
+      "updatedAt": "2026-10-23T12:48:21.369Z"
     },
     {
       "id": "task-ecb80mo8vhsi",
@@ -2324,6 +2324,30 @@
       "title": "Get off Grid - 2V Carport Design check",
       "description": "will 1.9mm thick purlins work",
       "type": "design_check",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-23",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "Lucian",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "",
+      "createdAt": "2026-10-22T14:10:36.518Z",
+      "updatedAt": "2026-10-23T12:45:31.856Z"
+    },
+    {
+      "id": "task-nu3qqj20ynnd",
+      "projectId": null,
+      "title": "New Planet - SAP Sandton",
+      "description": "",
+      "type": "eng_task",
       "statusId": "status-doing",
       "assignee": "Lucian",
       "priority": "medium",
@@ -2334,13 +2358,13 @@
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
-      "checker": "Lucian",
+      "checker": "",
       "calcOrDrawingRef": "",
       "drawingNumber": "",
       "rev": "",
-      "discipline": "",
-      "createdAt": "2026-10-22T14:10:36.518Z",
-      "updatedAt": "2026-10-22T14:10:36.518Z"
+      "discipline": "Structural",
+      "createdAt": "2026-10-23T12:51:49.945Z",
+      "updatedAt": "2026-10-23T12:51:49.945Z"
     }
   ]
 }
