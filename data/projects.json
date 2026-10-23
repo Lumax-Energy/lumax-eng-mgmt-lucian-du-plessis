@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-23T12:52:25.564Z",
+  "updatedAt": "2026-10-23T12:56:36.872Z",
   "settings": {
     "taskStatuses": [
       {
@@ -76,6 +76,10 @@
       {
         "id": "other",
         "name": "Other"
+      },
+      {
+        "id": "report",
+        "name": "Report"
       }
     ],
     "myAssignee": "Lucian du Plessis",
