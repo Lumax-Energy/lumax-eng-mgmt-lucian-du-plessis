@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-23T12:56:36.872Z",
+  "updatedAt": "2026-10-24T14:59:29.584Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2355,7 +2355,7 @@
       "statusId": "status-doing",
       "assignee": "Lucian",
       "priority": "medium",
-      "dueDate": null,
+      "dueDate": "2026-10-27",
       "phaseId": null,
       "blockedReason": "",
       "doneDate": null,
@@ -2368,7 +2368,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-23T12:51:49.945Z",
-      "updatedAt": "2026-10-23T12:51:49.945Z"
+      "updatedAt": "2026-10-24T14:59:25.967Z"
     }
   ]
 }
