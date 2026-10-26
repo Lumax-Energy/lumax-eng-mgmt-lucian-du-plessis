@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-24T14:59:29.584Z",
+  "updatedAt": "2026-10-26T10:09:55.888Z",
   "settings": {
     "taskStatuses": [
       {
@@ -113,6 +113,11 @@
       "business": "Lumax ENERGY (PTY) Ltd",
       "address": "Corporate Park North, Midrand 1685",
       "contact": "+27 10 140 4933"
+    },
+    "signers": [],
+    "company": {
+      "business": "",
+      "address": ""
     },
     "scfYear": 2026,
     "scfSeq": 16,
@@ -2304,13 +2309,13 @@
       "title": "Easy Power_NuHarvest - Design Report",
       "description": "Do Design Report (2V GM 20deg, steel)",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-26",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2320,7 +2325,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-22T14:08:58.448Z",
-      "updatedAt": "2026-10-22T14:08:58.448Z"
+      "updatedAt": "2026-10-26T10:09:53.911Z"
     },
     {
       "id": "task-rltqqsxyc412",
@@ -2369,6 +2374,30 @@
       "discipline": "Structural",
       "createdAt": "2026-10-23T12:51:49.945Z",
       "updatedAt": "2026-10-24T14:59:25.967Z"
+    },
+    {
+      "id": "task-bkyh5cp80h4c",
+      "projectId": null,
+      "title": "Easy Power - NuHarvest (Design Report)",
+      "description": "",
+      "type": "report",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": "2026-10-26",
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-26T07:36:19.884Z",
+      "updatedAt": "2026-10-26T07:36:19.884Z"
     }
   ]
 }
