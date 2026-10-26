@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-26T11:34:09.061Z",
+  "updatedAt": "2026-10-26T15:13:50.535Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1661,13 +1661,13 @@
       "title": "Energy Partners Power - AECI Modderfontein Design Report",
       "description": "",
       "type": "report",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": "2026-10-07",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-10-26",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1677,7 +1677,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-06T08:31:04.092Z",
-      "updatedAt": "2026-10-24T09:25:15.075Z"
+      "updatedAt": "2026-10-26T15:13:47.173Z"
     },
     {
       "id": "task-9q7sdhg9g00g",
