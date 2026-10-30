@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-27T09:50:39.879Z",
+  "updatedAt": "2026-10-30T09:48:45.923Z",
   "settings": {
     "taskStatuses": [
       {
@@ -908,6 +908,87 @@
       "archived": false,
       "createdAt": "2026-10-21T08:14:55.490Z",
       "updatedAt": "2026-10-21T08:24:05.228Z"
+    },
+    {
+      "id": "proj-zg0fc8eqi4jt",
+      "clientName": "Easy Power",
+      "projectName": "Druids, Centurion",
+      "projectCode": "EPS-GM-002",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "Portion 101, Hennops River, Corner R511 and, Lazy River Rd, Pretoria Rural, Centurion, 0157",
+      "contactPerson": "sales@easypowersolar.co.za",
+      "projectType": "Ground mount",
+      "structureTypes": [
+        "GM Steel"
+      ],
+      "drawingNumbers": [
+        "EPS-GM-ST-001",
+        "EPS-GM-ST-002"
+      ],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": false,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": false,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-wibdj67wi4jt",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-padqb5h6i4jt",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-izhukzaei4jt",
+          "name": "Design"
+        },
+        {
+          "id": "phase-v5chzeadi4jt",
+          "name": "Check"
+        },
+        {
+          "id": "phase-uqvi7orei4jt",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-dolq9t1ii4jt",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-ypxsjli1i4jt",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-6g4ndx5yi4jt",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-kyzsj049i4jt",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-10-30T09:48:42.761Z",
+      "updatedAt": "2026-10-30T09:48:42.761Z"
     }
   ],
   "tasks": [
