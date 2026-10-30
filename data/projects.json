@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-30T12:52:52.976Z",
+  "updatedAt": "2026-10-30T14:27:05.164Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2505,6 +2505,32 @@
       "discipline": "Structural",
       "createdAt": "2026-10-30T12:52:42.560Z",
       "updatedAt": "2026-10-30T12:52:42.560Z"
+    },
+    {
+      "id": "task-1mncb8fgfkjt",
+      "projectId": null,
+      "clientName": "Journey2Green",
+      "projectName": "Mont Rochelle",
+      "title": "EW STEEL 12° GM, 2V9 & 2V27 (Site Inspect Report)",
+      "description": "JOG-GM-001",
+      "type": "report",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-10-30",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-10-30T13:58:40.073Z",
+      "updatedAt": "2026-10-30T13:58:57.691Z"
     }
   ]
 }
