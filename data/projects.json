@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-10-30T14:27:05.164Z",
+  "updatedAt": "2026-11-02T13:33:36.808Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2294,13 +2294,13 @@
       "title": "WHP - Laerskool Delareyville (Rooftop)",
       "description": "",
       "type": "eng_task",
-      "statusId": "status-doing",
-      "assignee": "Lucian",
+      "statusId": "status-done",
+      "assignee": "Kirstie",
       "priority": "medium",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-02",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2310,7 +2310,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-22T10:49:22.329Z",
-      "updatedAt": "2026-10-22T10:49:22.329Z"
+      "updatedAt": "2026-11-02T13:33:11.938Z"
     },
     {
       "id": "task-j4ezot21qwv0",
