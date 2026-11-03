@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-02T14:11:57.062Z",
+  "updatedAt": "2026-11-03T12:49:50.978Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2342,13 +2342,13 @@
       "title": "Energy Capital - Maxwell Office Park (6 x Ballast roofs)",
       "description": "R9000",
       "type": "eng_task",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-03",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2358,7 +2358,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-10-22T12:56:33.252Z",
-      "updatedAt": "2026-10-22T12:56:33.252Z"
+      "updatedAt": "2026-11-03T12:49:05.835Z"
     },
     {
       "id": "task-x62s58v08eun",
