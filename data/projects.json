@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-06T12:08:33.528Z",
+  "updatedAt": "2026-11-06T12:10:15.390Z",
   "settings": {
     "taskStatuses": [
       {
@@ -1958,13 +1958,13 @@
       "title": "Z-Purlin (0.9mm)",
       "description": "Sectional design check (0.9 mm - Z-Purlin)\nSpans, Required Sag rods etc.",
       "type": "design_check",
-      "statusId": "status-doing",
-      "assignee": "Lucian",
+      "statusId": "status-done",
+      "assignee": "Dylan",
       "priority": "high",
       "dueDate": "2026-10-13",
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-06",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -1974,7 +1974,7 @@
       "rev": "",
       "discipline": "",
       "createdAt": "2026-10-12T10:25:01.650Z",
-      "updatedAt": "2026-10-12T10:25:01.650Z"
+      "updatedAt": "2026-11-06T12:10:13.036Z"
     },
     {
       "id": "task-wdvqcy1z1f6f",
