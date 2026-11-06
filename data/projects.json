@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-06T08:21:37.566Z",
+  "updatedAt": "2026-11-06T08:59:37.116Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2540,13 +2540,13 @@
       "title": "RePower - Polyoak Packaging (LM-KS-700 (Short-rail)",
       "description": "",
       "type": "report",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Kirstie",
       "priority": "high",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-06",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2556,7 +2556,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-11-05T09:55:51.433Z",
-      "updatedAt": "2026-11-05T09:55:51.432Z"
+      "updatedAt": "2026-11-06T08:59:35.327Z"
     },
     {
       "id": "task-ww49jq4dfoyj",
@@ -2635,6 +2635,32 @@
       "discipline": "Structural",
       "createdAt": "2026-11-06T08:12:53.891Z",
       "updatedAt": "2026-11-06T08:12:53.890Z"
+    },
+    {
+      "id": "task-dmgq8cxdjk7y",
+      "projectId": null,
+      "clientName": "Forest Energy",
+      "projectName": "AdvTech",
+      "title": "Forest Energy - AdvTech (Wind Pressure zone Map)",
+      "description": "",
+      "type": "report",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-11-06T08:23:32.638Z",
+      "updatedAt": "2026-11-06T08:23:32.638Z"
     }
   ]
 }
