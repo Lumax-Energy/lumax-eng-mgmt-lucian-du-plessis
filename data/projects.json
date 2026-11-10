@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-09T10:34:02.417Z",
+  "updatedAt": "2026-11-10T12:47:17.599Z",
   "settings": {
     "taskStatuses": [
       {
@@ -105,7 +105,8 @@
       "Custom",
       "H-Max Double Access",
       "H-Max East-West",
-      "H-Max Standard"
+      "H-Max Standard",
+      "H-Max Reverse"
     ],
     "engineerDefaults": {
       "name": "Demo Pr. Eng. (SAMPLE)",
@@ -907,7 +908,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-10-21T08:14:55.490Z",
-      "updatedAt": "2026-10-21T08:24:05.228Z"
+      "updatedAt": "2026-11-09T10:34:55.043Z"
     },
     {
       "id": "proj-zg0fc8eqi4jt",
@@ -989,6 +990,86 @@
       "archived": false,
       "createdAt": "2026-10-30T09:48:42.761Z",
       "updatedAt": "2026-10-30T12:52:42.560Z"
+    },
+    {
+      "id": "proj-4ttewbaqpxci",
+      "clientName": "The Energy Gurus",
+      "projectName": "The Energy Gurus - Port Elizabeth, Boardwalk Mall",
+      "projectCode": "THE-CP-002",
+      "salesOrderNumber": "",
+      "poNumber": "",
+      "popReference": "",
+      "invoiceNumber": "",
+      "address": "2M84+2J4 Gqeberha",
+      "contactPerson": "",
+      "projectType": "Carport",
+      "structureTypes": [
+        "H-Max East-West",
+        "H-Max Standard",
+        "H-Max Reverse"
+      ],
+      "drawingNumbers": [],
+      "customFields": {},
+      "structuralDesign": {
+        "designed": true,
+        "checked": false
+      },
+      "foundationDesign": {
+        "designed": false,
+        "checked": false
+      },
+      "phases": [
+        {
+          "id": "phase-vbxmxz89pxci",
+          "name": "Intake"
+        },
+        {
+          "id": "phase-v36cact6pxci",
+          "name": "Concept"
+        },
+        {
+          "id": "phase-y7jjn7yspxci",
+          "name": "Design"
+        },
+        {
+          "id": "phase-d2c1h7qvpxci",
+          "name": "Check"
+        },
+        {
+          "id": "phase-ak58j8dqpxci",
+          "name": "Drawings"
+        },
+        {
+          "id": "phase-w2yypgtwpxci",
+          "name": "Site investigation"
+        },
+        {
+          "id": "phase-xiwp0u95pxci",
+          "name": "Site/Construction support"
+        },
+        {
+          "id": "phase-v91h8pcvpxci",
+          "name": "Close-out"
+        },
+        {
+          "id": "phase-p55d7t03pxci",
+          "name": "Done"
+        }
+      ],
+      "municipalSignOff": "pending",
+      "engineeringSignOff": false,
+      "engineeringSignOffAt": null,
+      "engineeringSignOffBy": "",
+      "conformanceStatus": "none",
+      "conformanceRef": "",
+      "conformanceIssuedAt": null,
+      "conformanceCert": null,
+      "sclUndoSnapshot": null,
+      "sclHistory": [],
+      "activePhaseId": null,
+      "archived": false,
+      "createdAt": "2026-11-10T12:47:07.026Z",
+      "updatedAt": "2026-11-10T12:47:07.026Z"
     }
   ],
   "tasks": [
@@ -2711,6 +2792,30 @@
       "discipline": "Structural",
       "createdAt": "2026-11-09T05:32:08.247Z",
       "updatedAt": "2026-11-09T09:32:13.439Z"
+    },
+    {
+      "id": "task-smmjcvyuk2bn",
+      "projectId": "proj-nsgszst76uiq",
+      "title": "Final Punchlist / Final Eng Report",
+      "description": "",
+      "type": "report",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-11-09T10:34:55.043Z",
+      "updatedAt": "2026-11-09T10:34:55.043Z"
     }
   ]
 }
