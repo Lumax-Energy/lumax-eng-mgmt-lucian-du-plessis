@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-10T12:47:17.599Z",
+  "updatedAt": "2026-11-10T14:06:22.257Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2816,6 +2816,32 @@
       "discipline": "Structural",
       "createdAt": "2026-11-09T10:34:55.043Z",
       "updatedAt": "2026-11-09T10:34:55.043Z"
+    },
+    {
+      "id": "task-a7inul85tfs1",
+      "projectId": null,
+      "clientName": "Lumax RND",
+      "projectName": "Rail",
+      "title": "(41.3x41.3x2.5mm) VS (47mm Tophat)",
+      "description": "",
+      "type": "calculation",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-11-10T12:49:50.881Z",
+      "updatedAt": "2026-11-10T12:49:50.881Z"
     }
   ]
 }
