@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-10T14:06:22.257Z",
+  "updatedAt": "2026-11-11T12:03:44.315Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2842,6 +2842,32 @@
       "discipline": "Structural",
       "createdAt": "2026-11-10T12:49:50.881Z",
       "updatedAt": "2026-11-10T12:49:50.881Z"
+    },
+    {
+      "id": "task-5i8av7i0ncbg",
+      "projectId": null,
+      "clientName": "Solareff",
+      "projectName": "Somerset Mall (R63)",
+      "title": "Solareff - Somerset Mall (R63)",
+      "description": "New Wind Zones",
+      "type": "drawing",
+      "statusId": "status-done",
+      "assignee": "Lucian",
+      "priority": "medium",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": "2026-11-11",
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "Eng",
+      "rev": "01",
+      "discipline": "",
+      "createdAt": "2026-11-11T09:44:49.180Z",
+      "updatedAt": "2026-11-11T09:44:49.179Z"
     }
   ]
 }
