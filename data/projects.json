@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-11T14:35:34.872Z",
+  "updatedAt": "2026-11-11T14:44:06.685Z",
   "settings": {
     "taskStatuses": [
       {
@@ -618,7 +618,7 @@
       "activePhaseId": "phase-iu1k0ettu3un",
       "archived": false,
       "createdAt": "2026-10-01T09:51:34.655Z",
-      "updatedAt": "2026-11-09T10:33:49.265Z"
+      "updatedAt": "2026-11-11T14:36:55.906Z"
     },
     {
       "id": "proj-yqqjqokykkfm",
@@ -908,7 +908,7 @@
       "activePhaseId": null,
       "archived": false,
       "createdAt": "2026-10-21T08:14:55.490Z",
-      "updatedAt": "2026-11-09T10:34:55.043Z"
+      "updatedAt": "2026-11-11T14:36:43.746Z"
     },
     {
       "id": "proj-zg0fc8eqi4jt",
@@ -2671,13 +2671,13 @@
       "title": "Forest Energy - AdvTech (Wind Pressure zone Map)",
       "description": "",
       "type": "report",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "medium",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-11",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2687,7 +2687,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-11-06T08:23:32.638Z",
-      "updatedAt": "2026-11-09T10:33:49.265Z"
+      "updatedAt": "2026-11-11T14:36:55.906Z"
     },
     {
       "id": "task-5zjwr9wpq70j",
@@ -2697,13 +2697,13 @@
       "title": "Create Design Charts for the rooftop team",
       "description": "",
       "type": "other",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-11",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2713,7 +2713,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-11-06T12:12:39.043Z",
-      "updatedAt": "2026-11-06T12:12:39.042Z"
+      "updatedAt": "2026-11-11T14:36:51.863Z"
     },
     {
       "id": "task-c0lty56bbug8",
@@ -2799,13 +2799,13 @@
       "title": "Final Punchlist / Final Eng Report",
       "description": "",
       "type": "report",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-11",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2815,7 +2815,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-11-09T10:34:55.043Z",
-      "updatedAt": "2026-11-09T10:34:55.043Z"
+      "updatedAt": "2026-11-11T14:36:43.746Z"
     },
     {
       "id": "task-a7inul85tfs1",
@@ -2825,13 +2825,13 @@
       "title": "(41.3x41.3x2.5mm) VS (47mm Tophat)",
       "description": "",
       "type": "calculation",
-      "statusId": "status-doing",
-      "assignee": "Lucian",
+      "statusId": "status-done",
+      "assignee": "Dylan",
       "priority": "medium",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-11",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2841,7 +2841,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-11-10T12:49:50.881Z",
-      "updatedAt": "2026-11-10T12:49:50.881Z"
+      "updatedAt": "2026-11-11T14:36:32.153Z"
     },
     {
       "id": "task-5i8av7i0ncbg",
@@ -2894,6 +2894,32 @@
       "discipline": "Structural",
       "createdAt": "2026-11-11T14:00:08.537Z",
       "updatedAt": "2026-11-11T14:00:08.537Z"
+    },
+    {
+      "id": "task-nefchkqs4b55",
+      "projectId": null,
+      "clientName": "Easy Power",
+      "projectName": "Druids Garden",
+      "title": "Easy Power - Druids Garden (Foundation report)",
+      "description": "Easy Power - Druids Garden (Foundation checks)",
+      "type": "report",
+      "statusId": "status-doing",
+      "assignee": "Lucian",
+      "priority": "high",
+      "dueDate": null,
+      "phaseId": null,
+      "blockedReason": "",
+      "doneDate": null,
+      "refNumber": "",
+      "raisedBy": "",
+      "responseDue": null,
+      "checker": "",
+      "calcOrDrawingRef": "",
+      "drawingNumber": "",
+      "rev": "",
+      "discipline": "Structural",
+      "createdAt": "2026-11-11T14:37:56.969Z",
+      "updatedAt": "2026-11-11T14:38:13.559Z"
     }
   ]
 }
