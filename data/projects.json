@@ -1,6 +1,6 @@
 {
   "version": 2.4,
-  "updatedAt": "2026-11-11T14:44:06.685Z",
+  "updatedAt": "2026-11-13T10:17:14.045Z",
   "settings": {
     "taskStatuses": [
       {
@@ -2903,13 +2903,13 @@
       "title": "Easy Power - Druids Garden (Foundation report)",
       "description": "Easy Power - Druids Garden (Foundation checks)",
       "type": "report",
-      "statusId": "status-doing",
+      "statusId": "status-done",
       "assignee": "Lucian",
       "priority": "high",
       "dueDate": null,
       "phaseId": null,
       "blockedReason": "",
-      "doneDate": null,
+      "doneDate": "2026-11-13",
       "refNumber": "",
       "raisedBy": "",
       "responseDue": null,
@@ -2919,7 +2919,7 @@
       "rev": "",
       "discipline": "Structural",
       "createdAt": "2026-11-11T14:37:56.969Z",
-      "updatedAt": "2026-11-11T14:38:13.559Z"
+      "updatedAt": "2026-11-13T10:17:12.819Z"
     }
   ]
 }
